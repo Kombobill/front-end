@@ -80,8 +80,8 @@ Clone the project using these links depending on your local environment using ht
 
 👤 **Billgates Kombo**
 
-- GitHub: [@david-commit](https://github.com/Kombobill)
-- LinkedIn: [David Ondiege](https://linkedin.com/in/billgates-kombo-833122269/)
+- GitHub: [Billgates Kombo](https://github.com/Kombobill)
+- LinkedIn: [Billgates Kombo](https://linkedin.com/in/billgates-kombo-833122269/)
 
 ## 📝 License
 
