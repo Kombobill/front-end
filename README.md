@@ -1,6 +1,6 @@
 # iCare Health / Caregiving App
 
-> By David Ondiege
+> By Billgates
 
 ## Table of Content
 - [Title](#iCare-Health-/-Caregiving-App)
