@@ -78,11 +78,10 @@ Clone the project using these links depending on your local environment using ht
 
 ## Author
 
-👤 **David Ondiege**
+👤 **Billgates Kombo**
 
-- GitHub: [@david-commit](https://github.com/david-commit)
-- Twitter: [@incognito_098](https://twitter.com/incognito_098)
-- LinkedIn: [David Ondiege](https://linkedin.com/in/david-ondiege)
+- GitHub: [@david-commit](https://github.com/Kombobill)
+- LinkedIn: [David Ondiege](https://linkedin.com/in/billgates-kombo-833122269/)
 
 ## 📝 License
 
